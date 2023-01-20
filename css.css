@@ -212,7 +212,7 @@
 .skills{
   font-size: xx-large;
   margin-left: 10%;
-  font-family: 'Times New Roman', Times, serif;
+ 
 }
 .skills h4{
   font-weight: bolder;
@@ -251,7 +251,7 @@
    margin: 10px;
  }
  /* services Section */
- /* #services{
+ #services{
       display: flex;
       flex-direction: column;
       padding: 20px;
@@ -290,7 +290,7 @@
    height: 80px;
    background-color: white;
    padding: 10px;
- } */
+ }
 
 
  /* Contect section */
